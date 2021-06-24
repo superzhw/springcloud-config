@@ -1,2 +1,2 @@
 # springcloud-config配置中心
-中心化配置
+集成中心化配置
